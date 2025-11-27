@@ -1,7 +1,7 @@
 ## Ex-6-IMPLEMENTATION-OF-THE-BACK-END-OF-THE-COMPILER-
 ## IMPLEMENTATION OF THE BACK END OF THE COMPILER
 
-## Reference number: 212223110027
+## Reg number: 212223110027
 ## Date : 10.11.2025
 ## Aim :
 To write a program to implement the back end of the compiler.
